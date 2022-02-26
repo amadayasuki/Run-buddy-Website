@@ -399,7 +399,7 @@ footer h2, footer div {
 .contact-info iframe {
   flex: 1 100%;
 }
-
+}
 @media screen and (max-width: 768px) {
 section {
   padding: 30px 15px;
@@ -446,3 +446,4 @@ section {
   .contact-form {
     order: 3;
   }
+}
