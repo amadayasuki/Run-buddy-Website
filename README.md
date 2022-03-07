@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://amadayasuki.github.io/run-buddy/
+https://amadayasuki.github.io/Run-buddy-Website/
 
 ## Contribution
 Made with ❤️ by Sensess Yentzer
